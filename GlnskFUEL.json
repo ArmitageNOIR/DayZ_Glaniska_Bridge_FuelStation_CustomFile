@@ -1,0 +1,117 @@
+{
+    "Objects": [
+        {
+            "name": "Bonfire",
+            "pos": [ 5231.2, 198, 9559.1 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+            "scale": 0.01
+        },
+        {
+            "name": "Land_Lighthouse",
+            "pos": [ 5231.2, 189.3, 9559.1 ],
+            "ypr": [ 0.0, 0.0, 0.0 ]
+        },
+        {
+            "name": "staticobj_fueldstation_shed",
+            "pos": [ 5231.5, 177.05, 9558.6 ],
+            "ypr": [ 55.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_cnc_5",
+            "pos": [ 5233.05, 173.1, 9559.6 ],
+            "ypr": [ 55.0, 90.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "staticobj_wall_cnc_5",
+            "pos": [ 5241.2, 173.09, 9565.31 ],
+            "ypr": [ 55.0, 90.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "Land_Workshop_FuelStation",
+            "pos": [ 5236.4, 175.75, 9561.7 ],
+            "ypr": [ 55.0, 0.0, 0.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "Land_FuelStation_Build_Enoch",
+            "pos": [ 5234.8, 175.88, 9554.4 ],
+            "ypr": [ 145.0, 0.0, 0.0 ],
+			"scale": 1.1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5239.9, 175.50, 9556 ],
+            "ypr": [ 145.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5247.2, 175, 9566 ],
+            "ypr": [ 55.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5233.2, 175.50, 9568.6 ],
+            "ypr": [ -35.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "staticobj_fueldstation_sign",
+            "pos": [ 5224, 176, 9568 ],
+            "ypr": [ 45.0, 0.0, 0.0 ],
+			"scale": 4
+        },
+        {
+            "name": "staticobj_misc_razorwire",
+            "pos": [ 5225.3, 172.5, 9562.6 ],
+            "ypr": [ 235.0, 0.0, 270.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "Land_Wall_Gate_Ind3",
+            "pos": [ 5226.7, 177.45, 9560.5 ],
+            "ypr": [ 55.0, 0.0, 90.0 ],
+			"scale": 0.80
+        },
+        {
+            "name": "Land_Wall_Gate_Ind3",
+            "pos": [ 5227.8, 177.45, 9559 ],
+            "ypr": [ 55.0, 0.0, 90.0 ],
+			"scale": 0.80
+        },
+        {
+            "name": "staticobj_misc_razorwire",
+            "pos": [ 5229.2, 172.5, 9557 ],
+            "ypr": [ 25.0, 0.0, 270.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "Land_Wall_Gate_Ind3",
+            "pos": [ 5230.3, 177.05, 9555.3 ],
+            "ypr": [ 55.0, 0.0, 90.0 ],
+			"scale": 0.70
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5229.7, 178.8, 9556.5 ],
+            "ypr": [ 235.0, 0.0, 180.0 ],
+			"scale": 1.6
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5232.2, 175.7, 9552.7 ],
+            "ypr": [ 55.0, 0.0, 0.0 ],
+			"scale": 0.30
+        },
+        {
+            "name": "Land_FuelStation_Feed",
+            "pos": [ 5231.5, 175.4, 9558.6 ],
+            "ypr": [ 145.0, 0.0, 0.0 ],
+			"scale": 1.50
+        }
+    ]
+}
